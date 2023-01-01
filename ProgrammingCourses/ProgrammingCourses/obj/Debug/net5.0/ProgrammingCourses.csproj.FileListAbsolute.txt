@@ -1,0 +1,16 @@
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\bin\Debug\net5.0\ProgrammingCourses.exe
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\bin\Debug\net5.0\ProgrammingCourses.deps.json
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\bin\Debug\net5.0\ProgrammingCourses.runtimeconfig.json
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\bin\Debug\net5.0\ProgrammingCourses.runtimeconfig.dev.json
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\bin\Debug\net5.0\ProgrammingCourses.dll
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\bin\Debug\net5.0\ProgrammingCourses.pdb
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ProgrammingCourses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ProgrammingCourses.AssemblyInfoInputs.cache
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ProgrammingCourses.AssemblyInfo.cs
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ProgrammingCourses.csproj.CoreCompileInputs.cache
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ProgrammingCourses.dll
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ProgrammingCourses.pdb
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ProgrammingCourses.genruntimeconfig.cache
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ref\ProgrammingCourses.dll
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\ProgrammingCourses.csproj.AssemblyReference.cache
+C:\Users\David Nikolv\Desktop\bullshit\ProgrammingCourses\ProgrammingCourses\obj\Debug\net5.0\refint\ProgrammingCourses.dll

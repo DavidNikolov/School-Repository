@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFvt5OkH5xcrPBZZxpxxfv9TXkQw01hmqhJZtyo2Il4yx1ZmbyjZnJvsj+aIgxF8vU24CQWEsOcfXffPxJtnrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David Nikolv\\Desktop\\bullshit\\SearchAndSortAlgorithms\\Lib1\\Lib1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David Nikolv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Nikolv\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Nikolv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
