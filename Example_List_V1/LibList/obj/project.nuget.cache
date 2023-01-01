@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FuGn3QbXoEnEE3lgUZxBFPI8wkRA4TLT7zPhLXqNU+IBgwukZqIrIlayJFqxebaaWmKy8w/lZi+7GNSpnhGM3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\Example_List_V1\\LibList\\LibList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David Nikolv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Nikolv\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Nikolv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

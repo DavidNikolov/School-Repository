@@ -1,0 +1,5 @@
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.csproj.AssemblyReference.cache
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.AssemblyInfoInputs.cache
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.AssemblyInfo.cs
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.csproj.CoreCompileInputs.cache
