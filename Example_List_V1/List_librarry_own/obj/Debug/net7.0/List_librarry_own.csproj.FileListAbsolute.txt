@@ -3,3 +3,10 @@ C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\Li
 C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.AssemblyInfoInputs.cache
 C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.AssemblyInfo.cs
 C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.csproj.CoreCompileInputs.cache
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\bin\Debug\net7.0\List_librarry_own.deps.json
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\bin\Debug\net7.0\List_librarry_own.dll
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\bin\Debug\net7.0\List_librarry_own.pdb
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.dll
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\refint\List_librarry_own.dll
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\List_librarry_own.pdb
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\List_librarry_own\obj\Debug\net7.0\ref\List_librarry_own.dll

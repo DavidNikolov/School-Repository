@@ -6,12 +6,33 @@ using System.Transactions;
 namespace List_librarry_own {
     public class ListingCLass {
         private List<int> numbers;
+        public ListingCLass()
+        {
+
+        }
+
+        public void Initialize() {
+            Console.Write("Enter your nummbers here >> ");
+            numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
+        }
 
         public void TestCommandsList()
         {
 
             while (true) {
-                Console.Write("Enter your input here >>");
+                Console.WriteLine("The possable inputs are:");
+                Console.WriteLine("Add + element");
+                Console.WriteLine("Remove + element");
+                Console.WriteLine("RemoveAt + possition");
+                Console.WriteLine("Insert + element + possition");
+                Console.WriteLine("Constains + element");
+                Console.WriteLine("PrintEven");
+                Console.WriteLine("PrintOdd");
+                Console.WriteLine("GetSum");
+                Console.WriteLine("EqualTo");
+                Console.WriteLine("PrintList");
+                Console.WriteLine("End");
+                Console.Write("Enter your input here >> ");
 
                 string[] input = Console.ReadLine().Split().ToArray();
                 string command = input[0];
@@ -45,7 +66,7 @@ namespace List_librarry_own {
                     case "Insert":
                         int num2 = int.Parse(input[1]);
                         int index1 = int.Parse(input[2]);
-                        numbers.Insert(index1, num2);
+                        numbers.Insert(index1 - 1, num2);
                         Console.Clear();
                         break;
 
@@ -75,6 +96,11 @@ namespace List_librarry_own {
                         int number = int.Parse(input[1]);
                         Console.WriteLine(string.Join(" ", numbers.Where(x => x == number)));
                         Console.Clear();
+                        break;
+
+                    case "PrintList":
+                        Console.WriteLine(string.Join(" ", numbers));
+                        Console.WriteLine("######################################");
                         break;
 
                     default:

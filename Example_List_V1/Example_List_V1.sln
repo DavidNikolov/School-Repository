@@ -7,11 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_List_V1", "Example_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibList", "LibList\LibList.csproj", "{784406CA-7C30-42C6-9104-2F8EADC05838}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLibList", "TestLibList\TestLibList.csproj", "{18528406-9C20-4E1E-95AA-00AE46C22FF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Of_Own_Library", "Test_Of_Own_Library\Test_Of_Own_Library.csproj", "{F3C28D71-1359-42AF-89F9-0971A8603A99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Of_Own_Library", "Test_Of_Own_Library\Test_Of_Own_Library.csproj", "{F3C28D71-1359-42AF-89F9-0971A8603A99}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_librarry_own", "List_librarry_own\List_librarry_own.csproj", "{78ACD147-89D6-4A17-BE25-2E2397F155E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_librarry_own", "List_librarry_own\List_librarry_own.csproj", "{78ACD147-89D6-4A17-BE25-2E2397F155E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +25,6 @@ Global
 		{784406CA-7C30-42C6-9104-2F8EADC05838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{784406CA-7C30-42C6-9104-2F8EADC05838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{784406CA-7C30-42C6-9104-2F8EADC05838}.Release|Any CPU.Build.0 = Release|Any CPU
-		{18528406-9C20-4E1E-95AA-00AE46C22FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18528406-9C20-4E1E-95AA-00AE46C22FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18528406-9C20-4E1E-95AA-00AE46C22FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18528406-9C20-4E1E-95AA-00AE46C22FF4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F3C28D71-1359-42AF-89F9-0971A8603A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F3C28D71-1359-42AF-89F9-0971A8603A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3C28D71-1359-42AF-89F9-0971A8603A99}.Release|Any CPU.ActiveCfg = Release|Any CPU

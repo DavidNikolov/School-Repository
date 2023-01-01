@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "List_librarry_own/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/List_librarry_own.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/List_librarry_own.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "List_librarry_own/1.0.0": {
+      "type": "project",
+      "path": "../List_librarry_own/List_librarry_own.csproj",
+      "msbuildProject": "../List_librarry_own/List_librarry_own.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "List_librarry_own >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\David Nikolv\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\Example_List_V1\\List_librarry_own\\List_librarry_own.csproj": {
+              "projectPath": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\Example_List_V1\\List_librarry_own\\List_librarry_own.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

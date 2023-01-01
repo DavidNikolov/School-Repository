@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\List_librarry_own\List_librarry_own.csproj" />
+  </ItemGroup>
+
 </Project>

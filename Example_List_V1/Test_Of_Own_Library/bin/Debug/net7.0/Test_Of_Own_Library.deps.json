@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Test_Of_Own_Library/1.0.0": {
+        "dependencies": {
+          "List_librarry_own": "1.0.0"
+        },
+        "runtime": {
+          "Test_Of_Own_Library.dll": {}
+        }
+      },
+      "List_librarry_own/1.0.0": {
+        "runtime": {
+          "List_librarry_own.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_Of_Own_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "List_librarry_own/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
