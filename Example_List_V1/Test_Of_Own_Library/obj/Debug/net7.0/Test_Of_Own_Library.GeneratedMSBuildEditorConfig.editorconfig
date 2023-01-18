@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Test_Of_Own_Library
-build_property.ProjectDir = C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\Example_List_V1\Test_Of_Own_Library\
+build_property.ProjectDir = /workspaces/School-Repository/Example_List_V1/Test_Of_Own_Library/
