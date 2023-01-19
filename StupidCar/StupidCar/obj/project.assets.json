@@ -8,26 +8,32 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\David Nikolv\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\StupidCar.csproj",
       "projectName": "StupidCar",
       "projectPath": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\StupidCar.csproj",
       "packagesPath": "C:\\Users\\David Nikolv\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\obj\\",
+=======
+      "projectUniqueName": "/workspaces/School-Repository/StupidCar/StupidCar/StupidCar.csproj",
+      "projectName": "StupidCar",
+      "projectPath": "/workspaces/School-Repository/StupidCar/StupidCar/StupidCar.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/School-Repository/StupidCar/StupidCar/obj/",
+>>>>>>> 634f1ee7e5607899e5f675f7cc13d6056eedd390
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\David Nikolv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.101/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

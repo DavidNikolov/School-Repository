@@ -6,10 +6,6 @@ using System.Transactions;
 namespace List_librarry_own {
     public class ListingCLass {
         private List<int> numbers;
-        public ListingCLass()
-        {
-
-        }
 
         public void Initialize() {
             Console.Write("Enter your nummbers here >> ");

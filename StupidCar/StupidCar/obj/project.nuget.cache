@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "2JVgaCuKZlFqQD7hX2zd1SyPbPC93vpruBAhn83A/V67SVU1TUF5VieiIYUU/6YBfXgM5O8XObxcVpJJuQSyag==",
   "success": true,
   "projectFilePath": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\StupidCar.csproj",
+=======
+  "dgSpecHash": "gz22jik5JtXuIJqbGaLa0gSeIXmwzbPaCUWNTZILTdVpIjoKLgWrKYHF2KvoPUutx1Ie+/TJaBwBrtQ9MxDSag==",
+  "success": true,
+  "projectFilePath": "/workspaces/School-Repository/StupidCar/StupidCar/StupidCar.csproj",
+>>>>>>> 634f1ee7e5607899e5f675f7cc13d6056eedd390
   "expectedPackageFiles": [],
   "logs": []
 }

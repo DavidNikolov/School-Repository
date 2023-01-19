@@ -118,7 +118,6 @@ namespace StupidCar
 
         public override string ToString()
         {
-
             string result = string.Empty;
             result = $"{this.Brand}, {this.Model}, {this.Color}, {this.Miles}";
             return result;
