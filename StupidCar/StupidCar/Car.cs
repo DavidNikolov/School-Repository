@@ -13,36 +13,43 @@ namespace StupidCar
         private string model;
         private string color;
         private int miles;
-        public string Brand {
+        public string Brand
+        {
             get { return brand; }
             set { brand = value; }
         }
 
-        public string Model {
+        public string Model
+        {
             get { return model; }
             set { model = value; }
         }
 
-        public string Color {
+        public string Color
+        {
             get { return color; }
             set { color = value; }
         }
 
-        public int Miles {
+        public int Miles
+        {
             get { return miles; }
             set { miles = value; }
         }
 
-        public Car(string brand, string model, string color, int miles) {
+        public Car(string brand, string model, string color, int miles)
+        {
             this.Brand = brand;
             this.Model = model;
             this.Color = color;
             this.Miles = miles;
         }
 
-        public void Menu(List<Car> carList) { 
-            
-            while (true) {
+        public void Menu(List<Car> carList)
+        {
+
+            while (true)
+            {
 
                 Console.WriteLine("Your options are:");
                 Console.WriteLine("Add");
@@ -64,7 +71,7 @@ namespace StupidCar
                 switch (option)
                 {
                     case "Add":
-                        Console.Write("Enter your brand, model, color, miles");
+                        Console.WriteLine("Enter your brand, model, color, miles");
                         brand = Console.ReadLine();
                         model = Console.ReadLine();
                         color = Console.ReadLine();
@@ -81,7 +88,7 @@ namespace StupidCar
                         Console.Clear();
                         break;
 
-                    case "CahngeColor":
+                    case "ChangeColor":
                         Console.Write("Enter the number of the car you want to change color to >>");
                         index = int.Parse(Console.ReadLine());
                         Console.Write("what color do you want >>");
@@ -90,7 +97,7 @@ namespace StupidCar
                         Console.Clear();
                         break;
 
-                    case "CahngeMiles":
+                    case "ChangeMiles":
                         Console.Write("Enter the number of the car you want to change the miles to >>");
                         index = int.Parse(Console.ReadLine());
                         Console.Write("enter the miles >>");
@@ -107,6 +114,14 @@ namespace StupidCar
 
                 }
             }
+        }
+
+        public override string ToString()
+        {
+
+            string result = string.Empty;
+            result = $"{this.Brand}, {this.Model}, {this.Color}, {this.Miles}";
+            return result;
         }
     }
 }
