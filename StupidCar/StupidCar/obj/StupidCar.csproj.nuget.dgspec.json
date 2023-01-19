@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Nikolv\\source\\repos\\StupidCar\\StupidCar\\StupidCar.csproj": {}
+    "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\StupidCar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Nikolv\\source\\repos\\StupidCar\\StupidCar\\StupidCar.csproj": {
+    "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\StupidCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Nikolv\\source\\repos\\StupidCar\\StupidCar\\StupidCar.csproj",
+        "projectUniqueName": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\StupidCar.csproj",
         "projectName": "StupidCar",
-        "projectPath": "C:\\Users\\David Nikolv\\source\\repos\\StupidCar\\StupidCar\\StupidCar.csproj",
+        "projectPath": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\StupidCar.csproj",
         "packagesPath": "C:\\Users\\David Nikolv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Nikolv\\source\\repos\\StupidCar\\StupidCar\\obj\\",
+        "outputPath": "C:\\Users\\David Nikolv\\Documents\\SchoolRepos\\School-Repository\\StupidCar\\StupidCar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Nikolv\\AppData\\Roaming\\NuGet\\NuGet.Config",
