@@ -1,0 +1,15 @@
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\bin\Debug\net7.0\YeetCode.exe
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\bin\Debug\net7.0\YeetCode.deps.json
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\bin\Debug\net7.0\YeetCode.runtimeconfig.json
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\bin\Debug\net7.0\YeetCode.dll
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\bin\Debug\net7.0\YeetCode.pdb
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\YeetCode.csproj.AssemblyReference.cache
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\YeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\YeetCode.AssemblyInfoInputs.cache
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\YeetCode.AssemblyInfo.cs
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\YeetCode.csproj.CoreCompileInputs.cache
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\YeetCode.dll
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\refint\YeetCode.dll
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\YeetCode.pdb
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\YeetCode.genruntimeconfig.cache
+C:\Users\David Nikolv\Documents\SchoolRepos\School-Repository\YeetCode\YeetCode\obj\Debug\net7.0\ref\YeetCode.dll
